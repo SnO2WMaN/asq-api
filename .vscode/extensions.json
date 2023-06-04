@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "jnoortheen.nix-ide",
+    "mkhl.direnv",
+    "denoland.vscode-deno"
+  ]
+}
